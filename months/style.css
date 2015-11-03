@@ -1,0 +1,48 @@
+/* Styles go here */
+
+body {
+  margin-left: 0px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.months {
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+p {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.months li {
+  border-top: 2px solid black;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.summer {
+  background-color: orange;
+}
+
+.winter {
+  background-color: white;
+}
+
+.spring {
+    background-color: green;
+}
+
+.fall {
+  background-color: brown;
+}
